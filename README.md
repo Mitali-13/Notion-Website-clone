@@ -4,7 +4,10 @@ https://mitali-13.github.io/Notion-Website-clone/
 # Notion-Website-clone
 Created a website clone of the notion website
 
-This project gives the code for the cloning of a website(Original website link - https://www.notion.so/).
+This project gives the code for the cloning of the home page of a website(Original website link - https://www.notion.so/).
+
+<img width="960" alt="image" src="https://github.com/Mitali-13/Notion-Website-clone/assets/72097687/6ede6e1e-bcef-45d2-8df8-5b24007fcacd">
+
 
 # Steps used to clone the website:
 1. Web Scrape the website to extract the HTML, CSS and Javascript files. The extract.py code is used for web scraping.
