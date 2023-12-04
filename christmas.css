@@ -13,8 +13,8 @@
   }
   @keyframes reindeer-fly {
     from {
-      top: 120%;
-      left: 0;
+      top: 20%;
+      right: 50%;
     }
     to {
       top: 0;
